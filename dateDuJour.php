@@ -2,5 +2,5 @@
 // Affichage de la date actuelle
 $dtDuJour = date('j-m-Y H:i:s');
 
-echo $dtDuJour;
+echo "la date du jour est ".$dtDuJour;
 
