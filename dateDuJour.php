@@ -1,6 +1,6 @@
 <?php
-
-$dtDuJour = date('Y-m-j_H-i-s');
+// Affichage de la date actuelle
+$dtDuJour = date('j-m-Y H:i:s');
 
 echo $dtDuJour;
 
